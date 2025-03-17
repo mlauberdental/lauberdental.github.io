@@ -1,2 +1,0 @@
-# lauberdental.github.io
-site
